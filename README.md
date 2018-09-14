@@ -1,5 +1,7 @@
 # README
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/25_rails_docker_sucks.svg)](https://www.guardrails.io)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
